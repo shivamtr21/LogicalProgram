@@ -5,7 +5,7 @@
         public static void Main(string[] args)
         {
 
-            SwappingNumber.SwapTheNumber();
+            VowelConsonant.CheckVowelConsonant();
 
         }
     }
