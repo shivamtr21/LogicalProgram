@@ -4,8 +4,8 @@
     {
         public static void Main(string[] args)
         {
-            EvenOdd.CheckEvenOdd();
 
+            SwappingNumber.SwapTheNumber();
 
         }
     }
